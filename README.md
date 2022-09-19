@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in js, programming, learning new things, tecnology
-- 🌱 I’m currently learning  skills to be a front-end web developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested  programming, learning new things, tecnology
+- 🌱 I’m currently learning  skills to be a web developer
 - 📫 How to reach me: {
 -   const email= () => alireza.gholizadegan78@gmail.com }
 
